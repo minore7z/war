@@ -4,7 +4,7 @@ public enum ScoreboardType {
 
 	NONE(null),
 	POINTS("Points"),
-	LIFEPOOL("Lifepool"),
+	LIFEPOOL("Vie restantes"),
 	TOPKILLS("Top kills"),
 	PLAYERCOUNT("Player count"),
 	SWITCHING("Switching");
